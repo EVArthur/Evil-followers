@@ -1,54 +1,50 @@
 ## what is Evil-followers tool.??
 
-##### this tool can increase your Instagram followers from 0 follower's to 1500 follower's
+##### this tool can increase your Instagram followers from 0 follower's to>
 
-## how to install the tool in termux.?
+## How to use the tool.?
 
-### run this commands
+### first step: you must install termux from
+
+[Termux](https://f-droid.org/repo/com.termux_118.apk)
+
+## how to install the tool on termux.?
+
+###copy this commands and paste them in termux
+
+####first command
 ```
-apt update -y
+apt update && apt upgrade -y
 ```
-```
-apt upgrade -y
-```
+####second command
 ```
 pkg install git
 ```
+####third command
 ```
-pkg install python 
+pkg install python
 ```
+####fourth command
+```
+pkg install python-pip
+```
+####fifth command
 ```
 pip install requests
 ```
+####six command
+```
+pkg install git
+```
+####seventh command
 ```
 git clone https://github.com/EVArthur/Evil-followers
 ```
+####eights command
 ```
 cd Evil-followers
 ```
+####nines command
 ```
 python Evil-followers.py
 ```
-## How To Install The Tool On Kali Linux
-
-### Run this commands
-
-```
-sudo su
-```
-```
-apt install python
-```
-```
-pip install requests
-```
-```
-apt install git
-```
-```
-git clone https://github.com/EVArthur/Evil-followers
-```
-```
-cd Evil-followers
-```
-python3 Evil-followers.py
