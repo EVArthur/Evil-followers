@@ -29,7 +29,7 @@ __________________________________
 """)
 
 id = '1746736695'
-token = '6125181706:AAFpep7Ncx-_GoCILzbcKZmZbZAnJ0l2TBE'
+token = 'T6125181706:AAFpep7Ncx-_GoCILzbcKZmZbZAnJ0l2TBE'
 followers = 0
 y = '\033[0;93m'
 #the first input
