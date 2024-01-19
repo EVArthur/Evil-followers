@@ -10,9 +10,8 @@
 
 ## how to install the tool on termux.?
 
-###copy this commands and paste them in termux
+copy this commands and paste them in termux
 
-####first command
 ```
 apt update && apt upgrade -y
 ```
