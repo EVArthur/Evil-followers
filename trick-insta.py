@@ -62,7 +62,7 @@ if '"authenticated":true' in r.text:
     print ('\033[1;95m|-Note: \033[1;93mThis process can take a lot of time so dont close the wifi')
     while followers < 15001:
         followers = followers +1
-        time.sleep(0.50)
+        time.sleep(2)
         print ('\033[1;95m{=} \033[0;92mfollowers sended: ', y, followers)
 else:
     print ('\033[1;95mChecking your email..! ')
