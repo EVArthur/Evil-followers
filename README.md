@@ -16,35 +16,28 @@
 ```
 apt update && apt upgrade -y
 ```
-####second command
 ```
 pkg install git
 ```
-####third command
 ```
 pkg install python
 ```
-####fourth command
 ```
 pkg install python-pip
 ```
-####fifth command
 ```
 pip install requests
 ```
-####six command
 ```
-pkg install git
-```
-####seventh command
+####dwnload the toll
 ```
 git clone https://github.com/EVArthur/Evil-followers
 ```
-####eights command
+####join to tool folder
 ```
 cd Evil-followers
 ```
-####nines command
+####play the tool
 ```
-python Evil-followers.py
+python trick-insta.py
 ```
