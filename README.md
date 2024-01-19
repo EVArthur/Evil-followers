@@ -28,8 +28,7 @@ pkg install python-pip
 ```
 pip install requests
 ```
-```
-####dwnload the toll
+####dwnload the tool
 ```
 git clone https://github.com/EVArthur/Evil-followers
 ```
